@@ -1,0 +1,16 @@
+body {
+    background-color: #f9eecf;
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: auto;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', serif;
+}
